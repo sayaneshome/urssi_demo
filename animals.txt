@@ -2,3 +2,6 @@ lion
 tiger
 leopard
 turtle
+ferret
+chimera
+jackalope
