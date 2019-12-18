@@ -2,3 +2,5 @@ lion
 tiger
 leopard
 turtle
+dog
+cat
