@@ -4,3 +4,6 @@ leopard
 turtle
 dog
 cat
+ferret
+chimera
+jackalope
